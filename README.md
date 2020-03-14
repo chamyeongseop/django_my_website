@@ -1,0 +1,2 @@
+# django_my_website
+django_toy_project_my_website
